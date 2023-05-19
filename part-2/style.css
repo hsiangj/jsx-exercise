@@ -1,0 +1,12 @@
+.tweet {
+  border: 1px dotted purple;
+  border-radius: 5px;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.username,
+.date,
+p {
+  margin: 0 10px;
+}
